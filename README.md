@@ -1,7 +1,3 @@
-Perfect ✅ here’s a **clean, minimal, professional** version of your `README.md` for **LEGALEASE** — no filler, no fluff, just what’s needed 👇
-
----
-
 # ⚖️ LEGALEASE - Legal Document Management & Analysis Platform
 
 **LEGALEASE** is a full-stack web application designed to simplify and automate legal workflows. It allows users to upload, manage, and analyze legal documents efficiently through a secure and responsive interface.
